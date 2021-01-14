@@ -1,0 +1,254 @@
+body{
+    background-color: black;
+}
+/*top-div*/
+.top-pro
+
+{  
+    border-radius: 20px;
+    padding: 0px;
+    border-width: thin;
+    border-bottom: dashed yellow;
+    height: 255px;
+    background-color: black; 
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);     
+}
+.birds
+{
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+    position: relative;
+    left:620px;
+    bottom: 350px;
+}
+.pro-pic
+{
+    height: 150px;
+    width: 150px;
+    border: dashed 5px coral;
+    border-radius: 100px;
+    position: relative;
+    top:25px;
+    left: 140px;
+}
+.hi
+{
+font-family: 'Shadows Into Light', cursive;
+  color: #b73225;
+  display:inline-block;
+  position: relative;
+  left: 340px;
+  bottom: 120px;
+}
+.I
+{
+    font-family: 'Shadows Into Light', cursive;
+  color: #b73225;
+  display:inline-block;
+  position: relative;
+  left: 340px;
+  bottom:190px;
+}
+.cloud1
+{
+    display: inline-block;
+    position: relative;
+    left: 850px;
+    bottom: 300px;
+}
+.cloud2
+{
+    display: inline-block;
+    position: relative;
+    left: 850px;
+    bottom: 350px;
+}
+.line-one
+{
+    border: none;
+    width: 100%;
+    border: solid rgb(34, 17, 11);
+    box-shadow: darkgreen;
+}
+
+.circle
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    background-color: darkorange;
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    top : 360px;
+}
+.small-circle
+{
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+    background-color: wheat;
+    display: inline-block;
+    position: relative;
+    top:30px;
+    left: 35px;
+    
+}
+.small2
+{
+    height: 130px;
+    width: 130px;
+    border-radius: 100%;
+    background-color:brown;
+    display: inline-block;
+    position: relative;
+    top:30px;
+    left: 35px;
+}
+
+.social
+{
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    right: 370px;
+    bottom: 50px;
+
+}
+
+.whatsapp
+{
+    position: relative;
+        right:580px;
+        bottom: 130px;
+        height: 35px;
+         width: 40px;
+}
+
+.insta
+{
+         position: relative;
+         right:570px;
+         bottom: 135px;
+         height: 30px;
+         width: 30px;
+}
+
+.computer
+{
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+    display: inline-block;
+    position: relative;
+    top:660px;
+    right:120px;
+
+}
+
+.myself
+{
+    color:crimson ;
+    font-family: cursive;
+    display: inline-block;
+    position: relative;
+    right: 900px;
+    top: 430px;
+}
+
+.vector1
+{
+    height: 300px;
+    width: 350px;
+    border-radius: 25px;
+    display: inline-block;
+    position: relative;
+    right: 220px;
+    top:160px;
+}
+.vector2
+{
+    height: 350px;
+    width: 350px;
+    border-radius: 25px;
+    display: inline-block;
+    position: relative;
+    bottom: 120px;
+}
+.vector3
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    display: inline-block;
+    position: relative;
+    bottom: 80px;
+    left: 630px;
+
+}
+
+.pro-pic2
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    position: relative;
+    right: 300px;
+    top:300px;
+
+}
+.kotha
+{
+    color: wheat;
+    font-family: cursive;
+    display: inline-block;
+    position: relative;
+    top: 130px;
+    left: 250px;
+}
+
+.html
+{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    top:450px;
+    right:760px;
+}
+
+.myblog
+{
+    color: crimson;
+    display: inline-block;
+    position: relative;
+    font-family: cursive;
+    right: 460px;
+    top: 435px;
+}
+
+.camera
+{
+    height: 190px;
+    width: 190px;
+    border-radius: 100%;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top:450px;
+}
+.photos
+{
+    color: crimson;
+    display: inline-block;
+    position: relative;
+    font-family: cursive;
+    left: 1180px;
+    top:365px;
+
+}
+
+
